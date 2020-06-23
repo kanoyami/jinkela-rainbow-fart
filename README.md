@@ -1,8 +1,3 @@
-<!--
- * @Date: 2020-06-23 14:44:40
- * @LastEditors: kanoyami
- * @LastEditTime: 2020-06-23 14:51:22
---> 
 # 金坷垃 rainbow-fart 语音包
 
 > 这是一个 vscode 彩虹屁🌈插件 [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) 的语音扩展包
@@ -11,6 +6,8 @@
 
 
 ## Preview
+
+![preview](https://github.com/kanoyami/jinkela-rainbow-fart/blob/master/preview/preview.png)
 
 
 
